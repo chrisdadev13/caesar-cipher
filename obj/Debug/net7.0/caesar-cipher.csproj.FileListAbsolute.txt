@@ -1,0 +1,15 @@
+/home/arco/Repos/projects/caesar-cipher/bin/Debug/net7.0/caesar-cipher
+/home/arco/Repos/projects/caesar-cipher/bin/Debug/net7.0/caesar-cipher.deps.json
+/home/arco/Repos/projects/caesar-cipher/bin/Debug/net7.0/caesar-cipher.runtimeconfig.json
+/home/arco/Repos/projects/caesar-cipher/bin/Debug/net7.0/caesar-cipher.dll
+/home/arco/Repos/projects/caesar-cipher/bin/Debug/net7.0/caesar-cipher.pdb
+/home/arco/Repos/projects/caesar-cipher/obj/Debug/net7.0/caesar-cipher.csproj.AssemblyReference.cache
+/home/arco/Repos/projects/caesar-cipher/obj/Debug/net7.0/caesar-cipher.GeneratedMSBuildEditorConfig.editorconfig
+/home/arco/Repos/projects/caesar-cipher/obj/Debug/net7.0/caesar-cipher.AssemblyInfoInputs.cache
+/home/arco/Repos/projects/caesar-cipher/obj/Debug/net7.0/caesar-cipher.AssemblyInfo.cs
+/home/arco/Repos/projects/caesar-cipher/obj/Debug/net7.0/caesar-cipher.csproj.CoreCompileInputs.cache
+/home/arco/Repos/projects/caesar-cipher/obj/Debug/net7.0/caesar-cipher.dll
+/home/arco/Repos/projects/caesar-cipher/obj/Debug/net7.0/refint/caesar-cipher.dll
+/home/arco/Repos/projects/caesar-cipher/obj/Debug/net7.0/caesar-cipher.pdb
+/home/arco/Repos/projects/caesar-cipher/obj/Debug/net7.0/caesar-cipher.genruntimeconfig.cache
+/home/arco/Repos/projects/caesar-cipher/obj/Debug/net7.0/ref/caesar-cipher.dll
