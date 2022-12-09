@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "agG3mQ/p+b0/kdZVBbnZ5/EAsfwvRQ6rCOvtfw+A5kc32m12aWrqyu89yhKeE3Kk8xPegsMHFYhBCxRv4TXr6Q==",
+  "success": true,
+  "projectFilePath": "/home/arco/Repos/projects/caesar-cipher/caesar-cipher.csproj",
+  "expectedPackageFiles": [
+    "/home/arco/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
